@@ -11,7 +11,7 @@ public class SqlMinion {
     static String IP = "XXX.XXX.XX.XXX";
     static String USER = "XXXX";
     static String PASS = "XXXX";
-    static String DB_URL = "jdbc:mysql://144.202.15.194:3306/teopolis";
+    static String DB_URL = "jdbc:mysql://XXX.XXX.XX.XXX/XXXXXXXX";
 
     public SqlMinion() {
     }
