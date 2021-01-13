@@ -8,9 +8,9 @@ import java.util.Scanner;
 
 public class SqlMinion {
 
-    static String IP = "144.202.15.194";
-    static String USER = "TITS";
-    static String PASS = "TITS";
+    static String IP = "XXX.XXX.XX.XXX";
+    static String USER = "XXXX";
+    static String PASS = "XXXX";
     static String DB_URL = "jdbc:mysql://144.202.15.194:3306/teopolis";
 
     public SqlMinion() {
